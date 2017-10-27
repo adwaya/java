@@ -1,2 +1,2 @@
-language: ruby
-script: true
+dist: trusty
+sudo: required
